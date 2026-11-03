@@ -1,0 +1,30 @@
+ClearUpdater – Proprietary Freeware License
+Copyright (c) 2026 [Pra8edn1k]. All rights reserved.
+1. Grant of License
+The author grants you a free, non-exclusive, non-transferable, worldwide license to use ClearUpdater for personal and commercial purposes.
+You may:
+Download and use ClearUpdater free of charge.
+Use the application on any number of your own devices.
+Use the application for personal or commercial activities.
+Share links to the official ClearUpdater download page.
+2. Restrictions
+You may not:
+Redistribute, republish, mirror, or otherwise distribute the original executable or modified versions without prior written permission from the author.
+Sell, rent, sublicense, or commercially redistribute the application.
+Modify, adapt, or create derivative works based on the application.
+Reverse engineer, decompile, or disassemble the application, except where such restrictions are prohibited by applicable law.
+Claim authorship or ownership of ClearUpdater or any part of it.
+3. Ownership
+ClearUpdater is proprietary software. All rights, title, and interest in the application, including its design, code, and related materials, remain with the author.
+This license does not grant you any ownership rights or access to the application's source code.
+4. Disclaimer of Warranty
+ClearUpdater is provided "AS IS", without warranties of any kind, express or implied.
+The author does not guarantee that the application will be error-free, uninterrupted, or compatible with all systems and software.
+5. Limitation of Liability
+To the maximum extent permitted by applicable law, the author shall not be liable for any damages, data loss, system failures, or other consequences arising from the use or inability to use ClearUpdater.
+6. Termination
+This license terminates automatically if you violate its terms. Upon termination, you must cease using the application and destroy all copies in your possession.
+7. Governing Law
+This license is governed by the applicable laws of the jurisdiction in which the author resides, subject to mandatory legal provisions.
+8. Contact
+For permissions, licensing questions, or other inquiries, please contact the author through the official ClearUpdater GitHub repository.
