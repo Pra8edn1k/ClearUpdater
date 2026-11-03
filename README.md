@@ -51,7 +51,20 @@ Download the latest version from the **[GitHub Releases](../../releases/latest)*
 | 🇧🇷 Portuguese (Brazil) | 🇨🇳 Chinese (Simplified) | 🇯🇵 Japanese |
 
 ---
-
+## Screenshots
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <img src="ClearUpdater_01.png" width="100%" />
+    </td>
+    <td width="33%" align="center">
+      <img src="ClearUpdater_02.png" width="100%" />
+    </td>
+    <td width="33%" align="center">
+      <img src="ClearUpdater_03.png" width="100%" />
+    </td>
+  </tr>
+</table>
 <p align="center">
   <strong>ClearUpdater — You decide what gets updated and how.</strong>
 </p>
